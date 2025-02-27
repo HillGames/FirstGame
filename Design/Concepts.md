@@ -23,7 +23,7 @@ weapon upgrade will drop form ship
 
 player is a mutant space explorer. Has power to go back in time when he dies. He can update his deck/abilities in before every run. uses this deck to find the master alien who trapped him in his time loop.
 
-## Simple Rogue like space shooter.
+## 5. Simple Rogue like space shooter.
 
 Player ship has time dilation device. 
 Once defeated, Player move back in time.
