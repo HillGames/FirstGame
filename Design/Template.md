@@ -1,4 +1,3 @@
-# < GAME NAME > - GDD
 - [\< GAME NAME \> - GDD](#-game-name----gdd)
   - [Introduction](#introduction)
       - [Game Summary](#game-summary)
@@ -25,6 +24,7 @@
   - [Development Timeline](#development-timeline)
 
 
+# < GAME NAME > - GDD
 ## Introduction
 #### Game Summary
 #### Inspiration
